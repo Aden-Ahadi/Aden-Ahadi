@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on Best Student Website <br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning React.Js<br>💬 Ask me about FrontEnd Development<br>⚡ Fun fact
+🚀 Building tools for the community </br>
+💡 CEO in training </br>
+🧠 Learning Front-end, always shipping </br>
+🤝 Open to collabs & ideas </br>
+💬 Let's talk front-end, design, or student hacks </br>
+⚡ Fun fact: I break things just to build them better </br>
 
 
 ## 🌐 Socials:
